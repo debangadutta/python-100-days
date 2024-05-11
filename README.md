@@ -13,3 +13,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 4 : First program - print function
 
 ### Day 5 : Comments, Escape Sequences & Print Statement
+
+### Day 6 : Variables and Data Types
