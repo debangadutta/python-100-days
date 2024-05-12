@@ -17,3 +17,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 6 : Variables and Data Types
 
 ### Day 7 : Exercise 1: Calculator using Python
+
+### Day 8 : Exercise 1: Calculator using Python (Solution)
