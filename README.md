@@ -23,3 +23,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 9 : Typecasting in Python
 
 ### Day 10 : Taking User Input in Python
+
+### Day 11 : Strings in Python
