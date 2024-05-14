@@ -31,3 +31,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 13 : String Methods
 
 ### Day 14 : If Else Conditional Statements
+
+### Day 15 : Exercise 2: Good Morning Sir
