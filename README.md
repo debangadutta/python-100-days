@@ -27,3 +27,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 11 : Strings in Python
 
 ### Day 12 : Strings Slicing and Operations on Strings
+
+### Day 13 : String Methods
