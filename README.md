@@ -35,3 +35,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 15 : Exercise 2: Good Morning Sir
 
 ### Day 16 : Match Case Statements
+
+### Day 17 : For Loops
