@@ -43,3 +43,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 19 : break and continue
 
 ### Day 20 : Functions
+
+### Day 21 : Function Arguments
