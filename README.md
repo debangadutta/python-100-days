@@ -55,3 +55,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 25 : Operations on Tuples
 
 ### Day 26 : Exercise 2: Solution
+
+### Day 27 : Exercise 3: Kaun Banega Crorepati (KBC)
