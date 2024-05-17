@@ -48,4 +48,4 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 
 ### Day 22 : Introduction to Lists
 
-### Day 23 : 
+### Day 23 : List Methods
