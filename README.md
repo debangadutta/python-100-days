@@ -47,3 +47,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 21 : Function Arguments
 
 ### Day 22 : Introduction to Lists
+
+### Day 23 : 
