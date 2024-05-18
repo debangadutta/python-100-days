@@ -77,3 +77,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 36 : Exception Handling
 
 ### Day 37 : Finally keyword
+
+### Day 38 : Raising custom errors
