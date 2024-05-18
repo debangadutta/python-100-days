@@ -18,11 +18,18 @@ for i in range(6):
     if(ans.upper())==questions[i][1]:
         print("\nYou are correct!")
         count+=1
-        winnings = count*1000
-        print("You won", winnings, "till now!")
+        if(count<6):
+            print("You won", count*1000, "till now!")
+        
     else:
         print("\nIncorrect answer!")
         break
-print("\n\nYou won", winnings, "in total and got", count, "answers correct!")
-if(count==len(questions)): print("Congratulations! You answered ALL the questions correctly!")
+if(count==2 or count==3):
+    winnings = 2000
+    print("\n\nYou won", winnings, "in total and got", count, "answers correct!")
+elif(count==4 or count==5):
+    winnings = 4000
+    print("\n\nYou won", winnings, "in total and got", count, "answers correct!")
+elif(count==len(questions)): print("Congratulations! You answered ALL the questions correctly and won 1000000!")
+else: print("\nUnfortunately, you win nothing.")
 print("\nThank you for playing!")
