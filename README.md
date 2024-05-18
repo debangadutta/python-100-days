@@ -73,3 +73,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 34 : Dictionary Methods
 
 ### Day 35 : for Loop with else
+
+### Day 36 : Exception Handling
