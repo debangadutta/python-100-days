@@ -87,3 +87,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 41 : Short hand if else statements
 
 ### Day 42 : Enumerate Function
+
+### Day 43 : Virtual Environment
