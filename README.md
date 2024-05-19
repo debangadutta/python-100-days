@@ -83,3 +83,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 39 : Exercise 3: KBC - Solution
 
 ### Day 40 : Exercise 4: Secret Code Language
+
+### Day 41 : Short hand if else statements
