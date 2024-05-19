@@ -1,0 +1,3 @@
+import printing
+
+printing.welcome()
