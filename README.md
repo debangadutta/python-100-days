@@ -99,3 +99,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 47 : Exercise 4: Solutions
 
 ### Day 48 : Local vs Global Variables
+
+### Day 49 : File IO
