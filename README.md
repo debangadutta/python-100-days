@@ -105,3 +105,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 50 : read(), readlines() and other methods
 
 ### Day 51 : seek(), tell() and other functions
+
+### Day 52 : Lambda functions
