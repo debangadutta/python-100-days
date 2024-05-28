@@ -123,3 +123,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 59 : Decorators
 
 ### Day 60 : Getters and Setters
+
+### Day 61 : Inheritance
