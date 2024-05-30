@@ -133,3 +133,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 64 : Exercise 6 - Library Management System
 
 ### Day 65 : Static Methods
+
+### Day 66 : Instance variables vs Class variables
