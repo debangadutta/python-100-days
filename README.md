@@ -137,3 +137,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 66 : Instance variables vs Class variables
 
 ### Day 67 : Exercise 6 Solution - Library Management Software
+
+### Day 68 : Exercise 7 - Clear the Clutter
