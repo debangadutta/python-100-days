@@ -139,3 +139,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 67 : Exercise 6 Solution - Library Management Software
 
 ### Day 68 : Exercise 7 - Clear the Clutter
+
+### Day 69 : Class Methods
