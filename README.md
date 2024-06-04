@@ -147,3 +147,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 71 : dir, __dict__ and help method
 
 ### Day 72 : super keyword
+
+### Day 73 : Magic/Dunder Methods
