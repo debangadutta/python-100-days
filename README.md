@@ -153,3 +153,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 74 : Method Overriding
 
 ### Day 75 : Exercise 7 Solution
+
+### Day 76 : Exercise 8 - Merge the PDF
