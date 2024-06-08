@@ -157,3 +157,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 76 : Exercise 8 - Merge the PDF
 
 ### Day 77 : Operator Overloading
+
+### Day 78 : Single Inheritance
