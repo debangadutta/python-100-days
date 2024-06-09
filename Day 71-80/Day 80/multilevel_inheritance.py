@@ -33,3 +33,5 @@ doggy1.show_details()
 
 animal1 = Animal("Nemo", "Catto")
 animal1.show_details()
+
+print(f"\nMRO of GoldenRetriever: {GoldenRetriever.mro()}")
