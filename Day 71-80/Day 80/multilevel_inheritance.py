@@ -4,7 +4,7 @@ class Animal:
         self.species = species
 
     def show_details(self):
-        print(f"Name: {self.name}")
+        print(f"\nName: {self.name}")
         print(f"Species: {self.species}")
 
 class Dog(Animal):
@@ -27,3 +27,9 @@ class GoldenRetriever(Dog):
 
 goldy1 = GoldenRetriever("Coco", "Golden Brown")
 goldy1.show_details()
+
+doggy1 = Dog("Coconut", "Goldy Boy")
+doggy1.show_details()
+
+animal1 = Animal("Nemo", "Catto")
+animal1.show_details()
