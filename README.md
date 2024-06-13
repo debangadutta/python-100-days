@@ -169,3 +169,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 82 : Exercise 8 - Merge the Pdf Solution
 
 ### Day 83 : Exercise 9 - Shoutouts to Everyone
+
+### Day 84 : Time Module
