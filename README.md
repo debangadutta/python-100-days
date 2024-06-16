@@ -177,3 +177,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 86 : Walrus Operator
 
 ### Day 87 : Shutil Module
+
+### Day 88 : Exercise 9: Solution - Shoutouts to Everyone
