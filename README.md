@@ -191,3 +191,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 93 : Exercise 10 - News App Solution
 
 ### Day 94 : Exercise 11 - Drink Water Reminder
+
+### Day 95 : Regular Expressions
