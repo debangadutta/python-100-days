@@ -198,4 +198,4 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 
 ### Day 97 : Multithreading
 
-### Day 98 : MultiProcessing (1/2)
+### Day 98 : MultiProcessing
