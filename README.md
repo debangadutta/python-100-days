@@ -172,7 +172,7 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 
 ### Day 84 : Time Module
 
-### Day 85 : 
+### Day 85 : Creating command line utility
 
 ### Day 86 : Walrus Operator
 
@@ -201,3 +201,5 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 ### Day 98 : MultiProcessing
 
 ### Day 99 : Exercise 11 - Solution
+
+### Day 100 : 
