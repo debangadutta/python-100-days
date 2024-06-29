@@ -1,5 +1,7 @@
 # 100 Days with Python
 
+### [COMPLETED ON 29/06/24(51 days)]
+
 ### What is this?
 
 Starting on 10th May, 2024, learning Python from scratch until I complete the whole [playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) in 100 days WITH CONSISTENCY from CodewithHarry.
@@ -202,4 +204,4 @@ Starting on 10th May, 2024, learning Python from scratch until I complete the wh
 
 ### Day 99 : Exercise 11 - Solution
 
-### Day 100 : 
+### Day 100 : Conclusion and Where to go from here
